@@ -294,7 +294,7 @@
 </tr>
 <tr>
 <td><a href="https://github.com/jbt/markdown-editor">Markdown-editor</a></td>
-<td align="center"></td>
+<td align="center"><a href="http://blog.leanote.com/post/freewalk/Markdown-%E8%AF%AD%E6%B3%95%E6%89%8B%E5%86%8C#title-28">Markdown语法手册（完整整理版）</td>
 </tr>
 </tbody></table>
 
