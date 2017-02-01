@@ -173,3 +173,179 @@
 </tr>
 </tbody></table>
 
+
+<h2><a id="user-content-在线演示" class="anchor" href="#在线演示" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>在线演示</h2>
+
+<table><thead>
+<tr>
+<th>Reference</th>
+<th align="center">Reference</th>
+</tr>
+</thead><tbody>
+<tr>
+<td><a href="http://runjs.cn">js 在线编辑 - runjs</a></td>
+<td align="center"><a href="http://jsbin.com">js 在线编辑 - jsbin</a></td>
+</tr>
+<tr>
+<td><a href="http://codepen.io">js 在线编辑 - codepen</a></td>
+<td align="center"><a href="http://jsfiddle.net">js 在线编辑 - jsfiddle</a></td>
+</tr>
+<tr>
+<td><a href="http://ideone.com">java 在线编辑 - runjs</a></td>
+<td align="center"><a href="http://code.hcharts.cn">js 在线编辑 - hcharts</a></td>
+</tr>
+<tr>
+<td><a href="http://jsdm.com">js 在线编辑 - jsdm</a></td>
+<td align="center"><a href="http://sqlfiddle.com">sql 在线编辑 - sqlfiddle</a></td>
+</tr>
+<tr>
+<td><a href="https://thimble.mozilla.org">mozilla 在线编辑器</a></td>
+<td align="center"></td>
+</tr>
+</tbody></table>
+
+
+<h2><a id="user-content-富文本编辑器" class="anchor" href="#富文本编辑器" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>富文本编辑器</h2>
+
+<table><thead>
+<tr>
+<th>Reference</th>
+<th align="center">Reference</th>
+</tr>
+</thead><tbody>
+<tr>
+<td><a href="http://ueditor.baidu.com/website">百度ueditor</a></td>
+<td align="center"><a href="http://ckeditor.com">ckeditor</a></td>
+</tr>
+<tr>
+<td><a href="https://www.tinymce.com">tinymce</a></td>
+<td align="center"><a href="http://kindeditor.net">kindeditor</a></td>
+</tr>
+<tr>
+<td><a href="http://www.bootcss.com/p/bootstrap-wysiwyg">wysiwyg</a></td>
+<td align="center"><a href="http://integ.github.io/BachEditor">BachEditor</a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/mycolorway/simditor">simditor</a></td>
+<td align="center"><a href="https://github.com/summernote/summernote">summernote</a></td>
+</tr>
+<tr>
+<td><a href="http://neilj.github.io/Squire">Squire</a></td>
+<td align="center"><a href="https://github.com/wangfupeng1988/wangEditor">wangEditor</a></td>
+</tr>
+</tbody></table>
+
+
+<h2><a id="user-content-git" class="anchor" href="#git" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Git</h2>
+
+<table><thead>
+<tr>
+<th>Article</th>
+<th align="center">Article</th>
+</tr>
+</thead><tbody>
+<tr>
+<td><a href="https://github.com/Wscats/Good-text-Share/issues/20">Git操作</a></td>
+<td align="center"><a href="http://blog.csdn.net/qq_27080247/article/details/49942991">Git CSDN Blog</a></td>
+</tr>
+<tr>
+<td><strong>Reference</strong></td>
+<td align="center"><strong>Reference</strong></td>
+</tr>
+<tr>
+<td><a href="http://git-scm.com">Git-scm</a></td>
+<td align="center"><a href="https://git-for-windows.github.io">Git-for-windows</a></td>
+</tr>
+<tr>
+<td><a href="http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000">廖雪峰-Git教程</a></td>
+<td align="center"><a href="http://www.worldhello.net/gotgithub/index.html">Gogithub</a></td>
+</tr>
+<tr>
+<td><a href="http://pcottle.github.io/learnGitBranching">Git常规命令练习</a></td>
+<td align="center"><a href="https://github.com/xirong/my-git">Git的资料整理</a></td>
+</tr>
+<tr>
+<td><a href="http://www.cnblogs.com/fanfan259/p/4810517.html">我所记录的git命令（非常实用）</a></td>
+<td align="center"><a href="https://github.com/phodal/github-roam">GitHub 漫游指南</a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md">GitHub秘籍</a></td>
+<td align="center"><a href="http://onlywei.github.io/explain-git-with-d3">动画方式练习git</a></td>
+</tr>
+</tbody></table>
+
+
+<h2><a id="user-content-markdown" class="anchor" href="#markdown" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Markdown</h2>
+
+<table><thead>
+<tr>
+<th>Reference</th>
+<th align="center">Reference</th>
+</tr>
+</thead><tbody>
+<tr>
+<td><a href="http://wowubuntu.com/markdown">Markdown 语法说明 (简体中文版)</a></td>
+<td align="center"><a href="https://github.com/LearnShare/Learning-Markdown/blob/master/README.md">Markdown入门参考</a></td>
+</tr>
+<tr>
+<td><a href="https://www.zybuluo.com/mdeditor">Mdeditor(一款国内的在线markdown编辑器)</a></td>
+<td align="center"><a href="https://stackedit.io">Stackedit(国外的在线markdown编辑器，功能强大，同步云盘)</a></td>
+</tr>
+<tr>
+<td><a href="http://bh-lay.github.io/mditor">Mditor一款轻量级的markdown编辑器</a></td>
+<td align="center"><a href="https://github.com/lepture/editor">lepture-editor</a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/jbt/markdown-editor">Markdown-editor</a></td>
+<td align="center"></td>
+</tr>
+</tbody></table>
+
+
+<h2><a id="user-content-前端网站" class="anchor" href="#前端网站" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>前端网站</h2>
+
+<table><thead>
+<tr>
+<th>Reference</th>
+<th align="center">Reference</th>
+</tr>
+</thead><tbody>
+<tr>
+<td><a href="https://gold.xitu.io/">掘金</a></td>
+<td align="center"><a href="http://fex.baidu.com/">百度FEX</a></td>
+</tr>
+<tr>
+<td><a href="http://www.aliued.com/">阿里UED</a></td>
+<td align="center"><a href="http://www.runoob.com/">菜鸟教程</a></td>
+</tr>
+<tr>
+<td><a href="http://www.qdfuns.com/portal.php">QDFuns</a></td>
+<td align="center"><a href="http://www.imooc.com/">幕课网</a></td>
+</tr>
+<tr>
+<td><a href="http://codepen.io/">Codepen</a></td>
+<td align="center"><a href="http://sentsin.com/daohang/">Sentsin</a></td>
+</tr>
+<tr>
+<td><a href="https://segmentfault.com/">segmentfault</a></td>
+<td align="center"><a href="http://www.qdfuns.com/">前端网</a></td>
+</tr>
+</tbody></table>
+
+<h2><a id="user-content-算法" class="anchor" href="#算法" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>算法</h2>
+
+<table><thead>
+<tr>
+<th>Reference</th>
+<th align="center">Reference</th>
+</tr>
+</thead><tbody>
+<tr>
+<td><a href="https://github.com/Ralph-Wang/algorithm.in.js">数据结构与算法 JavaScript 描述. 章节练习</a></td>
+<td align="center"><a href="https://github.com/twobin/twobinSort">常见排序算法（JS版）</a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/luofei2011/jsAgm/blob/master/js/sort.js">经典排序</a></td>
+<td align="center"><a href="https://github.com/hechangmin/jssort">常见排序算法-js版本</a></td>
+</tr>
+</tbody></table>
