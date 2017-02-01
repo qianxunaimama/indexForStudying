@@ -3,6 +3,25 @@
 
 ###😺😺😺These share data are also from my usual work and learning，hoping to help you，If you like you can star.😺😺😺
 
+
+<h2><a id="user-content-html" class="anchor" href="#html" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Swift</h2>
+<table><thead>
+<tr>
+<th>Article</th>
+<th align="center">Article</th>
+</tr>
+</thead><tbody>
+<tr>
+<td><a href="https://www.swiftmi.com/swiftbook_cn/chapter1/chapter1.html">Swift精准翻译教程2.2</a></td>
+<td align="center"><a href="http://www.cocoachina.com/cms/tags.php?/Swift/">CocoaChina Swift Mode</a></td>
+</tr>
+<tr>
+  <td><a href="https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/index.html#//apple_ref/doc/uid/TP40014097-CH3-ID0">The Swift Programming Language (Swift 3.0.1)
+</td>
+  <td><a href=""></td>
+</tr>
+</tbody></table>
+
 <h2><a id="user-content-html" class="anchor" href="#html" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Python</h2>
 <table><thead>
 <tr>
@@ -17,6 +36,10 @@
 <tr>
   <td><a href="http://www.cnblogs.com/xin-xin/p/4297852.html">Python爬虫学习系列教程笔记</td>
   <td><a href="http://blog.csdn.net/cos_sin_tan/article/details/53907475">Python环境1s搭建</td>
+</tr>
+<tr>
+	<td><a href="https://github.com/programthink/opensource/blob/master/libs/python.wiki">Python众多开源项目</td>
+	<td></td>
 </tr>
 </tbody></table>
 
