@@ -3,7 +3,22 @@
 
 ###😺😺😺These share data are also from my usual work and learning，hoping to help you，If you like you can star.😺😺😺
 
-
+<h2><a id="user-content-html" class="anchor" href="#html" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Python</h2>
+<table><thead>
+<tr>
+<th>Article</th>
+<th align="center">Article</th>
+</tr>
+</thead><tbody>
+<tr>
+<td><a href="http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/">Python教程(廖雪峰的官网)</a></td>
+<td align="center"><a href="https://pan.baidu.com/share/link?shareid=3143702095&uk=3674346161#list/path=%2F&parentPath=%2FTechs%2FPython">小甲鱼Python视频教程</a></td>
+</tr>
+<tr>
+  <td><a href="http://www.cnblogs.com/xin-xin/p/4297852.html">Python爬虫学习系列教程笔记</td>
+  <td><a href="http://blog.csdn.net/cos_sin_tan/article/details/53907475">Python环境1s搭建</td>
+</tr>
+</tbody></table>
 
 <h2><a id="user-content-html" class="anchor" href="#html" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>HTML</h2>
 
@@ -333,16 +348,22 @@
 
 <table><thead>
 <tr>
-<th>Reference</th>
-<th align="center">Reference</th>
+	<th>Reference</th>
+	<th align="center">Reference</th>
 </tr>
 </thead><tbody>
 <tr>
-<td><a href="https://github.com/Ralph-Wang/algorithm.in.js">数据结构与算法 JavaScript 描述. 章节练习</a></td>
-<td align="center"><a href="https://github.com/twobin/twobinSort">常见排序算法（JS版）</a></td>
+	<td><a href="https://github.com/Ralph-Wang/algorithm.in.js">数据结构与算法 JavaScript 描述. 章节练习</a></td>
+	<td align="center"><a href="https://github.com/twobin/twobinSort">常见排序算法（JS版）</a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/luofei2011/jsAgm/blob/master/js/sort.js">经典排序</a></td>
-<td align="center"><a href="https://github.com/hechangmin/jssort">常见排序算法-js版本</a></td>
+	<td><a href="https://github.com/luofei2011/jsAgm/blob/master/js/sort.js">经典排序</a></td>
+	<td align="center"><a href="https://github.com/hechangmin/jssort">常见排序算法-js版本</a></td>
+</tr>
+<tr>
+	<td><a href="http://download.csdn.net/detail/jsntghf/5153268#comment">大话数据结构有书签pdf</a></td>
+	<td align="center"><a href="http://www.cnblogs.com/cj723/archive/2011/04/29/2033000.html">大话数据结构作者blog</a></td>
 </tr>
 </tbody></table>
+
+
