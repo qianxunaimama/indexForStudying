@@ -1,5 +1,5 @@
 # indexForStudying
-##[网友:猫的前端回忆录 给出的灵感](https://github.com/windiest/Front-end-tutorial)
+##[参照:猫的前端回忆录](https://github.com/windiest/Front-end-tutorial)
 
 ###😺😺😺These share data are also from my usual work and learning，hoping to help you，If you like you can star.😺😺😺
 First Header | Second Header | Third Header
